@@ -51,6 +51,8 @@ require 'template/header.php';
           <!-- Submit button -->
           <button  type="submit" name="login" value="login" class="btn btn-primary btn-lg btn-block shadow">Iniciar Sesión</button>
 
+          <h3>Modificacion del maestro santiago</h3>
+
          <!--  <div class="divider d-flex align-items-center my-4">
             <p class="text-center fw-bold mx-3 mb-0 text-muted">OR</p>
           </div>
